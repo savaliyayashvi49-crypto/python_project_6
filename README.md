@@ -1,6 +1,9 @@
 # python_project_6
 # 📝 PR. 6 - File Operator | Personal Journal Manager
 
+# explanation video
+link :
+
 
 ### 📖 Overview
 This project is a **Personal Journal Manager** that allows users to write, view, search, and delete daily journal entries. All entries are stored in a simple `journal.txt` file with a timestamp. The project is designed to demonstrate practical understanding of **File Handling Modes, Exception Handling, and Object-Oriented Programming** as per Red & White Skill Education practical requirements.
